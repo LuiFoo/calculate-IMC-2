@@ -18,4 +18,6 @@ O Índice de Massa Corporal (IMC) é uma medida comumente utilizada para avaliar
 Aqui está a fórmula do IMC:
 
 IMC = peso / (altura * altura)
- <img href="https://i.imgur.com/ZIrJZaO.png">
+
+
+<img src="https://i.imgur.com/ZIrJZaO.png" />
