@@ -1,4 +1,4 @@
-# Calculadora de IMC MELHORADA! (Índice de Massa Corporal)
+# Calculadora de IMC MELHORADA! ( Índice de Massa Corporal )
 
 Este é um simples script em JavaScript para calcular o Índice de Massa Corporal (IMC) com base no peso e na altura fornecidos.
 Obs: 
